@@ -1,4 +1,5 @@
 # DALL-E Image Generator Bot
+<img src="https://user-images.githubusercontent.com/58818244/210572408-406ef3c1-5c56-4a08-9a3a-fc47081b4917.png" width="100" height="100">
 This Telegram bot allows users to generate images based on descriptions provided to the DALL-E API.
 
 ## Getting Started
